@@ -33,6 +33,8 @@ main{
   grid-column: 1/-1;
   background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
   color: white;
+  border: none;
+  cursor: pointer;
 }
 .form-input{
   font-family:sans-serif;
